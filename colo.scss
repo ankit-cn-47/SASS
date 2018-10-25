@@ -1,0 +1,33 @@
+page-transit-price-finder {
+    .padding-img{
+        margin-top: 43px;
+        height: 17px;
+        width: 17px;
+        margin-left: 10px;
+    }
+    .padding-img-pin{
+        margin-top: 36px;
+        height: 22px;
+        width: 14px;
+        margin-left: 10px;
+    }
+    @media (min-width: 601px){
+        .padding-img{
+            margin-top: 40px;
+            height: 20px;
+            width: 20px;
+            margin-left: 39px;
+        }
+        .padding-img-pin{
+            margin-top: 32px;
+            height: 25px;
+            width: 17px;
+            margin-left: 39px;
+            
+        }
+    }
+    .card .item.item-block .item-inner {
+        border-bottom: 1px solid #dedede !important;
+    }
+
+}
